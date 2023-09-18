@@ -9,14 +9,14 @@ This is the worsheet 1.2
 - [Subject](#usage)
 
 
-## Getting Started
+## Name
 Kamal
 
-## Prerequisites
+## Section
 22MCA1-A
 
-## Installation
+## Date
 18/09/2023
 
-## Usage
+## Subject
 Back-End Technologies
