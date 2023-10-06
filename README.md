@@ -10,7 +10,7 @@ This is the worsheet 1.2
 
 
 ## Name
-Kamal
+Kamal Boruah
 
 ## Section
 22MCA1-A
